@@ -17,10 +17,10 @@
  * beian {string} Chinese policy
  */
 export const site = {
-  title: 'Astro Theme Yi', // required
+  title: 'GODDDER', // required
   favicon: '/favicon.svg', // required
   description: 'Welcome to my independent blog website! ',
-  author: "Astro-Yi", // required
+  author: "Console", // required
   avatar: '/avatar.png', // required
   motto: 'Actions speak louder than words.',
   url: 'https://astro-yi-nu.vercel.app',
